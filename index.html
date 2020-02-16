@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="robots" content="NOODP,NOYDIR">
+
+    <title>Thou shalt not read or ear; Thou shalt not dread my dear</title>
+
+   <script type="text/javascript" src="js/kinetic-v4.7.2.min.js"></script>
+   <script type="text/javascript" src="js/base.min.js"></script>
+   <script type="text/javascript" src="js/Perlin.min.js"></script>
+   <script type="text/javascript" src="js/thousands.min.js"></script>
+	
+	<script type="text/javascript" >
+	
+   /* ********** START OF CUSTOMIZATION AREA ************** */
+	
+	/* frequência de substituição de texto e imagem */
+	var def_txt_n_img_speed = 5000;
+	
+	/* frequência de substituição / reprodução sonora */	
+	var def_snd_speed = 5000;
+	
+	/* densidade do nevoeiro, valores aceitáveis: 0-255; */
+	var fog_level = 200; 
+
+	/* comportamento do "olho do nevoeiro", valores aceitáveis: 0 (moving), qualquer outro número (cleaning)	*/
+	var eye_mode = 0;
+
+	/* ********** END OF CUSTOMIZATION AREA ************** */
+	
+	</script>
+
+   <link href="css/main.css" rel="stylesheet" type="text/css" />
+   </head>
+   <body>
+   	  <canvas id="offscreen_canvas" width="1000" height="400"></canvas>
+   	  <audio id="stream1"></audio>
+   	  <audio id="stream2"></audio>
+   	  
+        <div id="thousands" style="border: 1px dashed gray"></div>
+        <div id="container" style="border: 1px dashed gray"></div>
+    </body>
+</html>

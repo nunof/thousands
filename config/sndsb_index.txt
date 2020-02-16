@@ -1,0 +1,10 @@
+KirbyStyleLaser.ogg
+MediumExplosion8-Bit.ogg
+Metal_Hit.ogg
+Powerup.ogg
+Slash8-Bit.ogg
+SmallExplosion8-Bit.ogg
+Soft_Airy_Swish.ogg
+StormMagic.ogg
+ThunderMagic.ogg
+TornadoMagic.ogg

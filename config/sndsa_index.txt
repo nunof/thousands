@@ -1,0 +1,14 @@
+BigBossDeath.ogg
+BigWave.ogg
+BossDeath.ogg
+ChargedLightningAttack8-Bit.ogg
+ChargedSonicBoomAttack8-Bit.ogg
+Collision8-Bit.ogg
+Crush8-Bit.ogg
+Death.ogg
+DrainMagic.ogg
+EnemyDeath.ogg
+FlameMagic.ogg
+FreezeMagic.ogg
+FunkyZap.ogg
+Heal8-Bit.ogg
